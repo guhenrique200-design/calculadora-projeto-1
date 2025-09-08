@@ -14,6 +14,6 @@ Criar uma calculadora funcional usando HTML, CSS e JavaScript para aprender lóg
 Código baseado em exemplos abertos disponíveis na internet, como [calculadora simples no DevMedia](https://www.devmedia.com.br/criando-uma-calculadora-com-javascript/37721).
 
 ---
-
-Desenvolvido por Gustavo Henrique
-
+## 📫 contato
+Desenvolvido por Gustavo Henrique Lima Rocha   
+[LinkedIn](https://www.linkedin.com/in/gustavo-henrique-lima-rocha-71726b383/)
