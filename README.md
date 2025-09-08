@@ -16,4 +16,4 @@ Código baseado em exemplos abertos disponíveis na internet, como [calculadora 
 ---
 
 Desenvolvido por Gustavo Henrique
-Atualiza README do projeto
+
